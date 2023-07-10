@@ -1,0 +1,67 @@
+.bg1 {
+    background: #0575E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #021B79, #0575E6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #021B79, #0575E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.bg2 {
+    background: #0575E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #021B79, #0575E6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #021B79, #0575E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+}
+  /* Estilos del formulario */
+.form-label {
+    color: #000000; /* Cambiar color de etiquetas */
+    font-weight: bold; /* Poner la fuente en negrita */
+    margin-bottom: 10px;
+}
+.form-control {
+    background-color: #F0F0F0; /* Cambiar color de fondo de los campos de entrada */
+    border: 2px solid #000000; /* Cambiar estilo de borde */
+    border-radius: 10px; /* Cambiar radio de borde */
+}
+
+.container-fluid {
+    margin-bottom: 200px; /* Cambiar margen superior */
+}
+
+.btn-info{
+    color: #000000; /* Cambiar color de texto del botón */
+    margin-left: auto; /* Centrar horizontalmente */
+    margin-right: auto; /* Centrar horizontalmente */
+    display: block; /* Cambiar a bloque para centrar */
+    margin-left: auto; /* Centrar horizontalmente */
+    margin-right: auto; /* Centrar horizontalmente */
+    font-weight: bold;
+}
+
+.bg-custom {
+    position: relative;
+    background-color: #3ea2ff; 
+    border-radius: 20px;
+    text-align: center;
+}
+
+.table {
+    background-color: cornsilk;
+    border: 2px solid #000000;
+}
+
+.btn-outline-success {
+    font-weight: bold;
+}
+
+.btn-outline-danger {
+    font-weight: bold;
+}
+
+.container {
+    position: absolute;
+    text-align: center; /* Alinea el texto al centro */
+    font-size: 25px; /* Tamaño de fuente */
+    font-weight: bold; /* Grosor de la fuente */
+    color: #ffd23d; /* Color del texto */
+    margin-top: 20px;
+    margin-left: 320px;
+    font-family: "Aharoni";
+}
